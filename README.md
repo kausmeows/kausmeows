@@ -26,7 +26,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 <br/>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyngzw_R52-vLgygYGz2gIP8XFSvoBedpayQ&usqp=CAU"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
