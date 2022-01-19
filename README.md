@@ -13,6 +13,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 - Getting comfy using Flask n Django for backend development.
 - Exploring more Deep learning,like...GAN's are awesome man.
 - Made this website for book lovers to review their most loved books and to read about other people's thoughts on them - https://kbookclub.herokuapp.com. I'll be       adding more features over the time and maybe include a recommendation system to recommend books like the one you post about. 
+- Also digging into competitive programming and strengthening DSA problem solving skill.
 
 <img align="right" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
 
