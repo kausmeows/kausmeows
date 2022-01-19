@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaustubh-s1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubhshukla84)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaustubh08.ugcs20@iiitranchi.ac.in)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/kaus_mos)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social)](https://twitter.com/kaus_mos)
 
 Welcome to my Github page!
 Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ @houseofgeeks 💻 at IIITR!  
