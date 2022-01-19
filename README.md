@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubhshukla84)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaustubh08.ugcs20@iiitranchi.ac.in)
 
-Welcome to my Github page! I am Kaustubh and Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !  
+Welcome to my Github page! I am Kaustubh, a curious developer. 
+Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !  
 
-<img align="top-right" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" height="auto" />
+<img align="right" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
 
 #### :computer: Programming languages and tools: 
 <p>
