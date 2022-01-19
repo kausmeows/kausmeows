@@ -29,7 +29,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://i.pinimg.com/736x/15/76/3d/15763de855be71aae8c2aca43a01f238.svg"></code>
+<code><img width="10%" src="https://datascientyst.com/content/images/2021/11/subscribe_icon-1.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
