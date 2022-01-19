@@ -12,7 +12,7 @@ Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer
 
 #### 🌱 Things I am currently working on: 
 - Getting comfy using Flask n Django for backend development.
-- Exploring more Deep learning,like...GAN's are awesome man.
+- Exploring more Deep learning, like...GAN's are awesome man.
 - Made this website for book lovers to review their most loved books and to read about other people's thoughts on them - https://kbookclub.herokuapp.com. I'll be       adding more features over the time and maybe include a recommendation system to recommend books like the one you post about. 
 - Also digging into competitive programming and strengthening DSA problem solving skills.
 
