@@ -37,5 +37,5 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
-<code><img width="10%" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 </p>
