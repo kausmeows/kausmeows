@@ -24,6 +24,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img width="8%" src="https://static.cdnlogo.com/logos/j/8/java.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img width="10%" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png"></code>
 <br/>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png"></code>
@@ -37,5 +38,4 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
-<code><img width="10%" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png"></code>
 </p>
