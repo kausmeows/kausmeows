@@ -1,11 +1,11 @@
-### Hi there 👋 
-### This is Kaustubh!
+### Hi there !!! 👋 
+### This is Kaustubh, a curious developer!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaustubh-s1)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubhshukla84)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaustubh08.ugcs20@iiitranchi.ac.in)
 
-Welcome to my Github page! I am Kaustubh, a curious developer. 
+Welcome to my Github page!
 Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !  
 
 #### 🌱 Things I am currently working on: 
@@ -29,6 +29,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="10%" src="https://svg-clipart.com/clipart/white/znzt91Q-panda-clipart.jpg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
