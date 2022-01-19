@@ -38,4 +38,5 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 </p>
