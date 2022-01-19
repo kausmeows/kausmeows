@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Kaustubh and Imma sophomore at IIIT Ranchi studying Computer Science and Engineering !  
 
-<img align="top" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" height="auto" />
+<img align="top-right" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="50%" height="auto" />
 
 #### :computer: Programming languages and tools: 
 <p>
