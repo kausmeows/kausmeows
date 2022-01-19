@@ -31,7 +31,7 @@ Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Current
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <br/>
-<code><img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png"></code>
+<code><img width="25%" height="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png"></code>
 <code><img width="10%" src="https://datascientyst.com/content/images/2021/11/subscribe_icon-1.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
