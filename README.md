@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@kaus_mos)](https://twitter.com/kaus_mos)
 
 Welcome to my Github page!
-Imma sophomore at IIIT Ranchi studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [@houseofgeeks] 💻 at IIITR!  
+Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [houseofgeeks](https://github.com/houseofgeeks) 💻 at IIITR!  
 
 #### 🌱 Things I am currently working on: 
 - Getting comfy using Flask n Django for backend development.
