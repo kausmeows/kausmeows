@@ -7,6 +7,8 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@kaus_mos)](https://twitter.com/kaus_mos)
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/_kaus.tubh/)
 
+<img align="center" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
+
 Welcome to my Github page!
 Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [@House Of Geeks](https://github.com/houseofgeeks) 💻 at IIITR!  
 
@@ -15,8 +17,6 @@ Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer
 - Exploring more Deep learning, like...GAN's are awesome man.
 - Made this website for book lovers to review their most loved books and to read about other people's thoughts on them - https://kbookclub.herokuapp.com. I'll be       adding more features over the time and maybe include a recommendation system to recommend books like the one you post about. 
 - Also digging into competitive programming and strengthening DSA problem solving skills.
-
-<img align="right" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
 
 #### :computer: Programming languages and tools: 
 <p>
