@@ -41,8 +41,8 @@ Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer
 <code><img width="8%" src="https://datascientyst.com/content/images/2021/11/subscribe_icon-1.svg"></code>
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
