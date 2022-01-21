@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@kaus_mos)](https://twitter.com/kaus_mos)
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/_kaus.tubh/)
 
-<img align="centre" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
+<img align="center" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
 
 Welcome to my Github page!
 Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [@House Of Geeks](https://github.com/houseofgeeks) 💻 at IIITR!  
