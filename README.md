@@ -1,4 +1,4 @@
-### Hi there !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there !!! <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px">
 ### This is Kaustubh, a curious developer !
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaustubh-s1)
