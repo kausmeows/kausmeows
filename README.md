@@ -26,6 +26,7 @@ Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer
 <p>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
+<code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img width="8%" src="https://static.cdnlogo.com/logos/j/8/java.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
