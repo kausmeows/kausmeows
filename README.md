@@ -8,9 +8,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/_kaus.tubh/)
 
 </br>
-
+<p align="center">
 <img align="center" alt="gif" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="40%" height="auto" />
-
+</p>
 </br>
 
 Welcome to my Github page!
