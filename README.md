@@ -17,33 +17,39 @@ Welcome to my Github page!
 Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the Coordinator of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [@House Of Geeks](https://github.com/houseofgeeks) 💻 at IIITR!  
 
 ### 🌱 Things I am currently working on: 
-- Getting comfy using Flask n Django for backend development.
+- Recently did an intern at Sarg where I got to work a lot on backend with NestJs.
+- Worked with social media APIs (Facebook Graph API 😵‍💫) and also learned about Facebook OAuth for secure integration of user account.
+- Worked with AWS services like Lambda functions, Dynamodb, AWS Sagemaker and deployed a website using S3 bucket.
 - Exploring more Deep learning, like...GAN's are awesome man.
 - Made this website for book lovers to review their most loved books and to read about other people's thoughts on them - https://kbookclub.herokuapp.com. I'll be       adding more features over the time and maybe include a recommendation system to recommend books like the one you post about. 
 - Also digging into competitive programming and strengthening DSA problem solving skills.
 
 ### :computer: Programming languages and tools: 
 <p>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 rem /></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img width="8%" src="https://static.cdnlogo.com/logos/j/8/java.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-</br>
-<code><img width="9.5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img width="6.9%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
-<br/>
-<code><img width="10%" height="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png"></code>
-<code><img width="8%" src="https://datascientyst.com/content/images/2021/11/subscribe_icon-1.svg"></code>
-<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
-<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= 60 rem />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 60 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height= 60 rem/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= 60 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height= 60 rem/>               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height= 60 rem/>            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height= 60 rem/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height= 60 rem/>               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height= 60 rem/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height= 60 rem/>                                
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height= 60 rem/>          
+<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height= 60 rem/>                          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= 60 rem/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height= 60 rem/>          
 </p>
