@@ -24,7 +24,7 @@ Imma sophomore at [IIIT Ranchi](https://github.com/iiitranchi) studying Computer
 
 ### :computer: Programming languages and tools: 
 <p>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 rem /></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 <code><img width="8%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png"></code>
