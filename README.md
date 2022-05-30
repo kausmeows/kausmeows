@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/_kaus.tubh/)
 
 ### 🌱 Welcome to my Github page !    
-Imma sophomore at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the **Coordinator** of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [@House Of Geeks](https://github.com/houseofgeeks) 💻 at IIITR!
+Imma sophomore at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the **Coordinator** of Community of Data Science and Artificial Intelligence 🙍🏽‍♂️ [**@House Of Geeks**](https://github.com/houseofgeeks) 💻 at IIITR!
 
 I am interested in **Back-end Web Technologies** and **Machine Learning/Deep Learning** 🤖. Finding correlations between an ML algorithm and the human mind 🧘🏻‍♂️ is so fascinating.
 
