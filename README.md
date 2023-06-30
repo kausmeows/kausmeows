@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kaus.tubh/)
 
 ### 🌱 Welcome to my Github page !    
-Imma sophomore at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the **Community Head** of Machine Learning and Artificial Intelligence wing 🙍🏽‍♂️ [**@House Of Geeks**](https://github.com/houseofgeeks) 💻 at IIITR!
+Imma senior at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm the **Community Head** of Machine Learning and Artificial Intelligence wing 🙍🏽‍♂️ [**@House Of Geeks**](https://github.com/houseofgeeks) 💻 at IIITR!
 
 I am interested in **Back-end Web Technologies** and **Machine Learning/Deep Learning** 🤖. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
 
