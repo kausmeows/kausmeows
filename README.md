@@ -10,7 +10,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kaus.tubh/)
 
 ### 🌱 Welcome to my Github page !    
-Imma senior at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm a **Machine Learning Engineer** at [Mercor](https://mercor.io/), leading the development and maintenance of an open-sourced Python package- [Textbase](https://github.com/cofactoryai/textbase) `(with over 1k GitHub stars)` that helps you build and deploy AI chatbots with just one command. Earlier this year I visited the `University of Auckland`, New Zealand as a `research intern` working in signal processing lab of ECSE department. Had a great time working with really cool people and travelling around the Kiwi land 🇳🇿.
+Imma senior at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently I'm a **Machine Learning Engineer** at [Mercor](https://mercor.io/), leading the development and maintenance of an open-sourced Python package- [Textbase](https://github.com/cofactoryai/textbase) `(with over 1k GitHub stars)` that helps you build and deploy AI chatbots with just one command. 
+
+Earlier this year I visited the `University of Auckland`, New Zealand as a `research intern` working in signal processing lab of ECSE department. Had a great time collaborating with really cool people and travelling around the Kiwi land 🇳🇿.
 
 I am interested in and **Machine Learning/Deep Learning**, **Back-end Web Technologies**🤖 and all things OSS. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
 
