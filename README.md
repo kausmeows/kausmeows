@@ -14,7 +14,7 @@ Imma senior at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Compute
 
 Earlier this year I visited the `University of Auckland`, New Zealand as a `research intern` working in signal processing lab of ECSE department. Had a great time collaborating with really cool people and travelling around the Kiwi land 🇳🇿.
 
-I am interested **Machine Learning/Deep Learning**, **Back-end Web Technologies**🤖 and all things OSS. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
+I am interested in **Machine Learning/Deep Learning**, **Back-end Web Technologies**🤖 and all things OSS. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
 
 💙 **Opensource**
 
