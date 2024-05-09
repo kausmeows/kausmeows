@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kaus.tubh/)
 
 ### 🌱 Welcome to my Github page !    
-Imma senior at [**IIIT Ranchi**](https://github.com/iiitranchi) studying Computer Science and Engineering. Currently working as a **Software Engineer** at [Wendor](https://wendor.in/) on building IOT based smart vending solutions .
+I'm currently working as a **Software Engineer** at [Wendor](https://wendor.in/) on building IOT based smart vending solutions and recently completed my undergrad in CS from [**IIIT Ranchi**](https://github.com/iiitranchi).
  
 Previous to this worked as a **Machine Learning Engineer** at [Cofactory](https://cofactory.ai/), a silicon-valley startup, leading the development and maintenance of an open-sourced Python package- [Textbase](https://github.com/cofactoryai/textbase) `(with over 1k GitHub stars 🌟)` that helps you build and deploy AI chatbots with just one command. 
 
