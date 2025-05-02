@@ -22,37 +22,3 @@ Things I did:
 I am interested in **Machine Learning/Deep Learning**, **Back-end Web Technologies**🤖 and all things OSS. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
 
 💙 **Opensource**
-
-### :computer: Programming languages and tools: 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= 50 rem />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height= 50 rem/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height= 50 rem/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height= 50 rem/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height= 50 rem/>            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height = 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height = 50 rem/>               
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height= 50 rem/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height= 50 rem/>                                
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height= 50 rem/>          
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height= 50 rem/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height= 50 rem/>                    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height = 50 rem/>                          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height= 50 rem/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height= 50 rem/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height= 50 rem/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height= 50 rem/>      
-</p>
