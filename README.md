@@ -16,7 +16,7 @@ Things I did:
 - Currently working as a *Senior Software Engineer* at **Agno** and leading the development and maintenance of the [#1 open-sourced agents SDK](https://github.com/agno-agi/agno/) with over **26k+ GitHub stars**.
 - Built first in India ML infra for vending machines that don't suck at [Wendor](wendor.in)
 - Tweaked LLMs at [Cofactory](https://cofactory.ai) as an ML Engineer.
-- A pleasant summer at the **University of Auckland** under a full scholarship builing an (opensourced)[https://github.com/kausmeows/EmotionGUI-UoA] Emotion Annotation and Visualization Tool
+- A pleasant summer at the **University of Auckland** under a full scholarship builing an [opensourced](https://github.com/kausmeows/EmotionGUI-UoA) Emotion Annotation and Visualization Tool
  
 
 I am interested in **Machine Learning/Deep Learning**, **Back-end Web Technologies**🤖 and all things OSS. Finding correlations between an ML algorithm and the human mind 🧠 is so fascinating.
